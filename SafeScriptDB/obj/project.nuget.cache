@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xsqLxh+LiKUDAR2EJfk8lPFt5mMdQnfiTk9whUudh4o7sLQvaetwyU0nyesyvhzqp2h+ScWyRsOowzhNMDx6GA==",
+  "success": true,
+  "projectFilePath": "C:\\Licenta\\SafeScriptDB\\SafeScriptDB\\SafeScriptDB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timot\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}
